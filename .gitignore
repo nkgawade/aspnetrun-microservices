@@ -4,3 +4,4 @@
 
 /src/.vs/aspnetrun-microservices/v16
 /.vs
+/src/Services/Catalog/Catalog.API/bin/Debug/net5.0
